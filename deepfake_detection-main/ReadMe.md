@@ -72,7 +72,7 @@ As part of our undergraduate capstone, We built a DeepFake detection pipeline. I
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/sangeetanandanvishal04/deepfake_detection.git
+   git clone https://github.com/poonampoonia01/deepfake_detection.git
    cd deepfake_detection
    ```
 2. Install Python packages:
