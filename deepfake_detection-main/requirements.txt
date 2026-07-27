@@ -1,0 +1,9 @@
+torch
+torchvision
+gdown
+matplotlib
+scikit-learn
+opencv-python
+torchinfo
+tqdm
+Pillow
